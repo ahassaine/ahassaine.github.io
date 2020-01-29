@@ -12,7 +12,7 @@ html {
 }
 
 .background-image {
-	filter: brightness(175%);
+	/* filter: brightness(120%); */
 	z-index: -1;
 }
 

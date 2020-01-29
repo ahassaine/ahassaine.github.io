@@ -1,0 +1,16 @@
+.bk-annotation-child {
+	width: 250px;
+}
+html, body {
+    height: 102%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
